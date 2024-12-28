@@ -2,7 +2,7 @@
 
 ## Introduction
 
-catching is a technique used to improve the performance of websites or Applications. Catching is like a temporary storage that stores the previously accessed data or repeatedly accessed data by using that data it delivers the content more quickly without fetching the data from the database recursively.
+Catching is a technique used to improve the performance of websites or Applications. Catching is like a temporary storage that stores the previously accessed data or repeatedly accessed data by using that data it delivers the content more quickly without fetching the data from the database recursively.
 
 ### Benefits of catching:
 
