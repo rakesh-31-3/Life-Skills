@@ -5,7 +5,7 @@
 ### In this video, what was the most interesting story or idea for you?
 
 The most interesting idea in Barbara Oakley's talk is the **focused and diffuse modes of thinking**. The focused mode is like a narrow beam for solving familiar problems,
-while the diffuse mode is a broad light for creative connections.Alternating between them helps deeply understand complex concepts.
+while the diffuse mode is a broad light for creative connections. Alternating between them helps me deeply understand complex concepts.
 
 ### What are active and diffused modes of thinking?
 
@@ -24,6 +24,6 @@ while the diffuse mode is a broad light for creative connections.Alternating bet
 
 ### What are some of the actions you can take going forward to improve your learning process?
 
-**Schedule Focused Sessions:** Dedicate uninterrupted time blocks for deep work.
-**Limit Shallow Work:** Reduce time spent on non-essential tasks to prioritize meaningful work.
-**Teach Others:** Teaching others by explaining concepts in me own words helps me to reinforce your understanding and uncover areas where i need further clarity.
+1. **Schedule Focused Sessions:** Dedicate uninterrupted time blocks for deep work.
+2. **Limit Shallow Work:** Reduce time spent on non-essential tasks to prioritize meaningful work.
+3. **Teach Others:** Teaching others by explaining concepts in my own words helps me to reinforce my understanding and uncover areas where I need further clarity.
